@@ -12,7 +12,7 @@
 ## 📖 Overview
 This is a **Production-Grade Portfolio Dashboard** built during **Cohort 2.0**. It tracks my technical evolution from static HTML/CSS to dynamic React architectures. 
 
-> **🔗 Live Demo:** [Replace with your Vercel Link]
+> **🔗 Live Demo:** [Vercel Link](https://dev-portfolio-eta-three.vercel.app/)
 > **📂 Status:** Phase 3 (React Ecosystem) - In Progress
 
 ---
