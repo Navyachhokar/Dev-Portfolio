@@ -12,7 +12,7 @@
 ## 📖 Overview
 This is a **Developer Log** built to track my technical evolution from static HTML/CSS to dynamic React architectures. 
 
-> **🔗 Live Demo:** [Vercel Link](https://dev-portfolio-eta-three.vercel.app/)
+> **🔗 Live Demo:** [Vercel Link](https://dev-log-eta-three.vercel.app/)
 > **📂 Status:** Phase 3 (React Ecosystem) - In Progress
 
 ---
@@ -69,7 +69,7 @@ This is a **Developer Log** built to track my technical evolution from static HT
 ## 🛠️ Local Installation
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Navyachhokar/Dev-Portfolio.git](https://github.com/Navyachhokar/Dev-Portfolio.git)
+   git clone https://github.com/Navyachhokar/DevLog
    
 2. **Install Dependencies:**
    ```bash
