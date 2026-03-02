@@ -13,7 +13,7 @@ const Layout = () => {
      
       <aside className="fixed bottom-0 left-0 right-0 z-50 w-full md:static md:w-72 border-t md:border-t-0 md:border-r border-slate-800 p-4 md:p-8 flex flex-row md:flex-col justify-around md:justify-start gap-0 md:gap-8 bg-slate-900/90 md:bg-slate-900/50 backdrop-blur-xl">
       
-        <div className="hidden md:block text-2xl font-black tracking-tighter bg-gradient-to-r from-blue-400 to-cyan-300 bg-clip-text text-transparent">
+        <div className="hidden md:block text-2xl font-black tracking-tighter bg-linear-to-r from-blue-400 to-cyan-300 bg-clip-text text-transparent">
           NAVYA.DEV
         </div>
 

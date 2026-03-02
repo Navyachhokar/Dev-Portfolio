@@ -1,4 +1,4 @@
-# 🚀 Cohort 2.0: My Learning Journey Dashboard
+# 🚀 The Dev Log
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -10,7 +10,7 @@
 ---
 
 ## 📖 Overview
-This is a **Production-Grade Portfolio Dashboard** built during **Cohort 2.0**. It tracks my technical evolution from static HTML/CSS to dynamic React architectures. 
+This is a **Developer Log** built to track my technical evolution from static HTML/CSS to dynamic React architectures. 
 
 > **🔗 Live Demo:** [Vercel Link](https://dev-portfolio-eta-three.vercel.app/)
 > **📂 Status:** Phase 3 (React Ecosystem) - In Progress
